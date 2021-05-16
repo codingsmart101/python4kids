@@ -6,7 +6,7 @@ It is very important to revisit these basics, and I encourage you to have a revi
 
 Please go to the website [learnpython.org](https://www.learnpython.org/) and go through the section called "Learn the Basics", and do the practices from "Hello World" to "Functions". These exercise will help you have a better understanding of Python basics.
 
-![](../../python4kids/misc/res/wk5_learnpython.png)
+![](../misc/res/wk5_learnpython.png)
 
 If you have questions, please send email to codingsmart101@gmail.com or post a new issue [here](https://github.com/codingsmart101/python4kids/issues).
 
