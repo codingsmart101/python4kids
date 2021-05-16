@@ -1,8 +1,12 @@
-# python4kids
-This is the workspace for CodingSmart Python for Kids starting in April 2021. 
+# codingsmart_p4k_t1
 
-We host Python for Kids class every Sunday morning near Top Ryde. The course is a beginner level teaching kids about computer science, Python programming and basic of robotics, electronics. 
+## Schedule
 
-Contact codingsmart101@gmail.com for more information about this course. 
+Coding Smart Course - Python for Kids - Term 1 (Apr 18, 2021 to Jun 20, 2021)
 
+Every Sunday Morning from Apr 18 to Jun 20, 9:00am to 10:30am at Top Ryde. 
+
+## Resources
+
+Github Repository Link: https://github.com/llbsh/codingsmart_p4k_t1
 
