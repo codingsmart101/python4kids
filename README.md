@@ -10,3 +10,11 @@ Every Sunday Morning from Apr 18 to Jun 20, 9:00am to 10:30am at Top Ryde.
 
 Github Repository Link: https://github.com/llbsh/codingsmart_p4k_t1
 
+
+## Course Plans
+
+### Lego Robotics
+
+* Python for Lego, using Pybricks. The document [link](https://docs.pybricks.com/en/latest/pupdevices/forcesensor.html) for Pybricks.
+* 
+
