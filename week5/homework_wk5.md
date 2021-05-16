@@ -6,4 +6,10 @@ It is very important to revisit these basics, and I encourage you to have a revi
 
 Please go to the [learnpython.org](https://www.learnpython.org/) and go through the section called "Learn the Basics", and do the practices from "Hello World" to "Functions". These exercise will help you have a better understanding of Python basics.
 
-If you have questions, please send email to codingsmart101@gmail.com or post a new issue [here](https://github.com/codingsmart101/python4kids/issues)
+If you have questions, please send email to codingsmart101@gmail.com or post a new issue [here](https://github.com/codingsmart101/python4kids/issues).
+
+## Google Colab Notebook
+
+The notebook from the class is here:
+
+* [Lession 5](https://colab.research.google.com/drive/1Yl0uShQ_hswLIPQ0s2eBraEfjq88TvyM?usp=sharing), it need your gmail to access to the site.
