@@ -12,4 +12,4 @@ If you have questions, please send email to codingsmart101@gmail.com or post a n
 
 The notebook from the class is here:
 
-* [Lession 5](https://colab.research.google.com/drive/1Yl0uShQ_hswLIPQ0s2eBraEfjq88TvyM?usp=sharing), it need your gmail to access to the site.
+* [Lesson 5](https://colab.research.google.com/drive/1Yl0uShQ_hswLIPQ0s2eBraEfjq88TvyM?usp=sharing), it need your gmail to access to the site.
