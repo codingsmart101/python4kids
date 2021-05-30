@@ -1,6 +1,9 @@
 # Homework for Week 7
 
-## Task – A security monitor with radio alarm
+We have two tasks for this week - week 7. 
+
+
+## Task 1 – A security monitor with radio alarm
 
 ### Software Requirement
 
@@ -77,7 +80,7 @@ while True:
         sleep(200)
 ```
 
-### Prepare for the next class
+## Task 1 - Prepare for the next class
 
 As we learned radio, now we can make a lot more things using micro:bit. We can have one micro:bit attached to a moving object and read sensor data from it.
 This [video](https://www.youtube.com/watch?v=2XXqs2T5mZ4) is an example, and [this one](https://www.youtube.com/watch?v=dlu5OfKmZY8) as well. We will do a similar experiment next week, you will have to prepare a car that carries your micro:bit (with battery). We will see how to get sensor data from your car. It could be made from lego parts, or wooden pieces, or cardboard. 
