@@ -10,7 +10,7 @@ These concepts in physics may take some time to fully understand, for the homewo
 
 The purpose of this task is to have more observations of accelerator data, and practice your skill of data capture, visualization and analysis.
 
-1. Use the code I provided to you during the class, set up a measuring unit and a receiving unit.
+1. Use the code we tested in class, set up a measuring unit and a receiving unit.
 2. Think about three situations that you can explore the change of acceleration data by firstly capturing such data.
 3. Prepare your measure unit with battery power, and attach it to some object. Make sure the movement or possible shock should not damage the micro:bit. There are so many options for you to explore, just list a few examples:
    1. What does the acceleration data look like when an actual car moves/stops and turns? You can ask your parents to take a drive and record the data from in the car.
