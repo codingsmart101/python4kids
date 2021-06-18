@@ -11,7 +11,7 @@
 
 ### Instruction
 
-Note: Micro:bit can could be damaged by water and high temperature ( over 120’C), please take care of your micro:bit when you do your experiment. Never put the micro:bit in water, or bake it in oven. 
+Note: Micro:bit can could be damaged by water and high temperature ( over 120’C), please take care of your micro:bit when you do your experiment. Never put the micro:bit in water, or bake it in oven.
 
 #### How to calculate Mim/Max?
 
