@@ -17,7 +17,7 @@ We learned how to use the accelerometer on Micro:bit and stream its measurement 
 
 	It is recommended not using space in your folder name or file name, to avoid any unknown issues. 
 
-1. Follow the example code in the “week9” notebook to make a line chart and visualise your data. 
+1. Follow the example code in the [“week9” notebook](https://colab.research.google.com/drive/1h3fyUBxoZIMwPFhXYsNyx2oHeNB6hMUE?usp=sharing) to make a line chart and visualise your data. 
 1. A hit for counting the running steps in Included in the example code. Think about your own way for counting the steps and implement it in the notebook. 
 
 This homework shows a process of conducting experiments with data analysis. In the next class we will learn more practical skills for data analysis, stay tuned. 
